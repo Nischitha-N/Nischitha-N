@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm **Nischitha**, a passionate developer who love
 - **Data Structures & Algorithms** (DSA) to strengthen my problem-solving skills.
 
 ### 👯 I’m looking to collaborate on:
-- Open-source projects, especially related to **Web Development** and ** Gen AI**.
+- Open-source projects, especially related to **Web Development** and **Gen AI**.
 
 ### 📫 How to reach me:
 - Email: [nn19702005@gmail.com](mailto:nn19702005@gmail.com)
