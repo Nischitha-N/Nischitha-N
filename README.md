@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Nischitha**, a passionate developer who love
 ### 🌱 I’m currently learning:
 
 - Full-stack web development with modern frameworks and tools.
-- **Web3** development and Blockchain.
+- **Data Science**,  **Machine Learning**, **Blockchain**.
 - Exploring **Generative AI** (Gen AI) and its applications.
 - **Data Structures & Algorithms** (DSA) to strengthen my problem-solving skills.
 
